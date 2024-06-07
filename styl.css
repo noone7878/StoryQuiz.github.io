@@ -11,25 +11,26 @@ body {
 
 .container {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 15px 10px rgba(0, 0, 0, 0.1);
     display: inline-block;
 }
 
 .title {
     color: #ff8c00;
     font-size: 2em;
-    margin-bottom: 20px;
+    margin-bottom: 200px;
 }
 
 .question-container {
-    margin-bottom: 20px;
+    margin-bottom: 500px;
 }
 
 #question {
     font-size: 1.2em;
     color: #ff8c00;
+    margin-bottom: 50px;
 }
 
 #answer {
